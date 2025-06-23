@@ -110,3 +110,10 @@ SysbuildKconfigBasic.txt
 SysbuildKconfigBasicNoModules.txt
 TextEncoding.txt
 YAMLLint.txt
+
+# Default Zephyr stuff
+.west/
+bootloader/
+modules/
+tools/
+zephyr/
